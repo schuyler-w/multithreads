@@ -2,14 +2,6 @@
  * alphabetcountmulthreads.c - this file implements the alphabetcountmulthreads function.
  */
 
-/*
- * Program 2
- * Name: Schuyler Wang
- * cssc1766@edoras.sdsu.edu
- * July 23, 2023
- */
-
-
 #include <stdio.h>
 #include <dirent.h>
 #include <string.h>
