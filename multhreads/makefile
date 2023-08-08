@@ -1,7 +1,3 @@
-# A Makefile for Program 2, CS480 
-# This is a sample, you may need to modify this file to make it works
-# Author: Zheng Li
-
 PROGRAM =testmulthreads
 CC = gcc
 CFLAGS = -g -std=c99 
